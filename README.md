@@ -18,20 +18,18 @@
 
 <div align="justified">
        
-
+This is an e-commerce grocery shopping application for android and ios.
+       
 </div>
 
 ## Catagories of Products in this app :point_down:
 
  - [x] 'Non-Alcoholic'
- - [x] 'Alcoholic'
- - [x] 'Halloween Special'
- - [x] 'Expensive'
- - [x] 'Affordable'
+
  
 
        
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1O581pW6KX2VRc57nARgiddNmK7ykywtB/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
