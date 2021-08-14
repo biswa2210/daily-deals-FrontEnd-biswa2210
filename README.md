@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
 
-***This new Flutter application named 'MOCKTAIL_RECIPES' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new e-commerce application named 'DAILY DEALS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -21,7 +21,8 @@
 
 </div>
 
-## Catagories of Mocktails in this app :point_down:
+## Catagories of Products in this app :point_down:
+
  - [x] 'Non-Alcoholic'
  - [x] 'Alcoholic'
  - [x] 'Halloween Special'
@@ -58,10 +59,7 @@ mocktail-recipe-finder
        ├── assets
        |     ├── fonts
        |     |     ├── CT.ttf
-       |     |     ├── LG.ttf
-       |     |     ├── OS.ttf
-       |     |     ├── PH.ttf
-       |     |     └── SM.ttf
+
        |     └── images
        |           ├── attachment.gif
        |           └── loading.gif
@@ -72,7 +70,7 @@ mocktail-recipe-finder
 
 <div align="justified">
 
-**This flutter application is totally responsive.** When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have used total six screens. Mocktail catagories screen, favourites screen, filter screen, Mocktail recipe description screen, tap screen, catagories screen. I have designed this using [Materials ui](https://material-ui.com/). I have loaded the entire app in main.dart.
+I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have used total six screens. Mocktail catagories screen, favourites screen, filter screen, Mocktail recipe description screen, tap screen, catagories screen. I have designed this using [Materials ui](https://material-ui.com/). I have loaded the entire app in main.dart.
   
 </div>
 
