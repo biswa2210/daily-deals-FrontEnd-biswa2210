@@ -86,6 +86,10 @@ I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdM
        
 <a href="pics/d12.jpeg"><img src="pics/d12.jpeg" width="250" height= "450"></a> <a href="pics/d13.jpeg"><img src="pics/d13.jpeg" width="250" height= "450"></a> <a href="pics/d14.jpeg"><img src="pics/d14.jpeg" width="250" height= "450"></a>
      
+<a href="pics/d15.jpeg"><img src="pics/d15.jpeg" width="250" height= "450"></a> <a href="pics/d16.jpeg"><img src="pics/d16.jpeg" width="250" height= "450"></a> <a href="pics/d17.jpeg"><img src="pics/d17.jpeg" width="250" height= "450"></a>
+       
+<a href="pics/d18.jpeg"><img src="pics/d18.jpeg" width="250" height= "450"></a> <a href="pics/d19.jpeg"><img src="pics/d19.jpeg" width="250" height= "450"></a> <a href="pics/d20.jpeg"><img src="pics/d20.jpeg" width="250" height= "450"></a>
+      
 </div>
 
 
