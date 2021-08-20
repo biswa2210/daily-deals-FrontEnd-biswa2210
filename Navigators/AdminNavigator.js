@@ -1,3 +1,9 @@
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import Orders from "../Screens/Admin/Orders";
