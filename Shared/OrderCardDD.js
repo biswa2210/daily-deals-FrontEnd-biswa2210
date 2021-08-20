@@ -1,3 +1,9 @@
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
 import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet,Dimensions } from "react-native";
 import { Picker } from "native-base";
