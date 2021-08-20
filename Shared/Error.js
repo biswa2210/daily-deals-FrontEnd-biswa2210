@@ -1,3 +1,8 @@
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import React from "react"
 import { StyleSheet, View, Text } from 'react-native'
 
