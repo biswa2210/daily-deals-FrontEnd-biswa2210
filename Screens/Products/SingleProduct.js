@@ -1,3 +1,8 @@
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import React, {useState,useEffect} from 'react';
 import { Image,View,StyleSheet,Button,Text,ScrollView } from 'react-native';
 import { Left,Right,Container,H1 } from 'native-base';
