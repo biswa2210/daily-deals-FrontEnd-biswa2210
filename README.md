@@ -22,12 +22,17 @@ This is an e-commerce grocery shopping application for android and ios. Here is 
        
 </div>
 
-## Catagories of Products in this app :point_down:
+## Points about this app :point_down:
 
- - [x] 'Non-Alcoholic'
-
+ - [x] 'Safe'<br>
+ - [x] 'User-friendly'<br>
+ - [x] 'Can be implemented for start up or business purpose'<br>
  
+## Main things in this app :point_down:
 
+ - [x] 'Categories'<br>
+ - [x] 'Products'<br>
+ - [x] 'Orders'<br>
        
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1O581pW6KX2VRc57nARgiddNmK7ykywtB/view" download>Click here to download</a>
 
@@ -35,23 +40,19 @@ This is an e-commerce grocery shopping application for android and ios. Here is 
 
 <div align="justified">
        
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
-       
+I have made this e-commerce android application whicch is a grocery application named DAILY DEALS so that it can be used in any start up or business purpose. This app is very user-friendly so that anyone can search products and order them. This app has login system so that it is also dafe. In present days the need of mobile app for any business is growing day by day. Keeping the trend of using e-commerce app in mind and practicing to make a safe, efficient, user-friendly app I have made this app.In this day and age, almost everyone owns a mobile device with internet connectivity. They are used to shopping using their phones. They love to do that from anywhere- at the convenience of their homes or while they are on a train or in a cab on the way to work. Having a dedicated mobile app makes it easier for the consumer to find what they are looking for at a faster pace. This would mean increased customer satisfaction. A large number of consumers find it easier to shop using a dedicated mobile app than using a website. The quality of the experience, speed, and the ease at which the transactions can be made are a few reasons. A mobile app would always provide an optimized user experience.
 
 </div>      
        
 ## Importance :point_down:
 
 <div align="justified">
-
+       
+Ecommerce is usually an extension of a brick and mortar store that performs business transactions online. With the advancements in technology, more and more people have access to the internet and mobile phones are the most commonly used devices to access the same. With this rise in the internet audience, ecommerce businesses have shaped the online shopping behaviour. In that context, mobile ecommerce is gaining a lot more momentum. The convenience that mobile ecommerce offers by letting you shop for anything, anywhere, is one of the primary factors that attracts users. This is where a dedicated mobile application comes into the picture. Everyone has a mobile device glued to their hands and they seem to be an integral part of people’s lives. They use it to browse for information, read the news, keep track of their day to day events, and even shop. For a business owner, this is a place to invest in. They have to understand the significance of these devices in a consumer’s day-to-day lives. It has reached a stage that it is not enough to have an ecommerce website running. For that ecommerce store to reach its full potential, it has become essential to have a dedicated mobile app. It is predicted that by 2021, sales through mobile devices would hit $3.5 trillion. This is 72.9% of total ecommerce. So to stay relevant and to stay in the game, it is important for an ecommerce brand to build its dedicated mobile application.
 </div>
 
 ## Folder Structure :point_down:
+
 ```bash
 mocktail-recipe-finder
        ├── assets
@@ -68,7 +69,7 @@ mocktail-recipe-finder
 
 <div align="justified">
 
-I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have used total six screens. Mocktail catagories screen, favourites screen, filter screen, Mocktail recipe description screen, tap screen, catagories screen. I have designed this using [Materials ui](https://material-ui.com/). I have loaded the entire app in main.dart.
+I have made an API and used that to work with this app's backend. I have made daily-deals-server()
   
 </div>
 
