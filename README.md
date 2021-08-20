@@ -69,7 +69,7 @@ mocktail-recipe-finder
 
 <div align="justified">
 
-I have made an API and used that to work with this app's backend. I have made [daily-deals-server](https://daily-deals-server-biswa2210.herokuapp.com/api/v1/). The backend part is described in my another repository [daily-deals-server]().
+I have made an API and used that to work with this app's backend. I have made [daily-deals-server](https://daily-deals-server-biswa2210.herokuapp.com/api/v1/). The backend part is described in my another repository [daily-deals-server-biswa2210](https://github.com/biswa2210/daily-deals-server-biswa2210).
   
 </div>
 
