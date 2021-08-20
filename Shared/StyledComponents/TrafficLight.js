@@ -1,4 +1,9 @@
 import styled, { css } from "styled-components";
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
 const TrafficLight = styled.View`
   border-radius: 50px;
