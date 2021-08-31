@@ -1,6 +1,6 @@
 # DAILY-DEALS-ECOMMERCE-APPLICATION :star_struck: 
 
-[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/react--native-community-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react-navigation-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/axios-%5E0.21.0-important)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/expo-~39.0.2-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/expo--image--picker-~9.2.1-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/expo--status--bar-~1.0.2-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/jwt--decode-%5E3.1.2-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mime-%5E2.4.2-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/native--base-%5E2.13.14-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react-16.13.1-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react--native--gesture--handler-%5E1.7.0-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react--native--reanimated-%5E1.13.3-9cf)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react--native--screens-%5E2.10.1-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/redux-%5E4.1.0-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/styled--components-%5E5.2.1-blue)](https://shields.io/) 
 
 ***This new e-commerce application named 'DAILY DEALS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -21,6 +21,10 @@
 This is an e-commerce grocery shopping application for android and ios. Here is register or login option when user opens for the first time. Here user has to register for the first time using email id, phone number, username and password. After the firt time user has to login with email id and password. Here is also a sigh out option for security purpose. In this grocery app there is a search engine where user can search products by name, company or categories. These search engine is made for making it user-friendly. Here are total 24 categories and 156 products in specific quantities. We can check products by choosing different categories. In each product there is a slider of images of that product and detailed description of that product including quantity, company name, availability status, price. Here is an Add button to add that product in cart. In the cart we can find tha product. Later we can easily order that item. There are two buttons here. Clear button is used for clearing the cart. If we want to order that product we have to proceed with Checkout button. There are 3 steps for ordering SHIPPING, PAYMENT and CONFIRM. In the Shipping Address part we have to give proper phone number, shipping address 1 and 2, city and a zip code for security. Here is also a drop down menu for choosing the country name. In the next part we can choose payment method among Cash on Delivery, Bank Transfer and Card Payment. After that we can proceed with CONFIRM button. In the final step we can place order. We can see our order in account section. Here we can see all detrails regarding our order. We can check the status of that order. For admin users there are additionl options. In the settings option user can use dd products option to dd poduct in ny ctegories. Here user has to write brand, name, price, count in stock, description for that product. User can also use camera to take images of that product from phone's internal storage. In the dd categories button user can add categoies by giving names. Here user can also delete an existing category. In the orders section user can see all orders of daily deals and also will be able to change the status of that order. Here user can choose among pending, shipped, delivered and update the status. This is a user-friendly android e-commerce grocery application.
        
 </div>
+
+## Backend Link :point_right: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/
+
+## Github Link of Backend :point_right: https://github.com/biswa2210/daily-deals-server-biswa2210
 
 ## Points about this app :point_down:
 
@@ -54,16 +58,88 @@ Ecommerce is usually an extension of a brick and mortar store that performs busi
 ## Folder Structure :point_down:
 
 ```bash
-mocktail-recipe-finder
-       ├── assets
-       |     ├── fonts
-       |     |     ├── CT.ttf
-
-       |     └── images
-       |           ├── attachment.gif
-       |           └── loading.gif
-
+Screens
+   ├── admin
+   |     ├── categories.js
+   |     ├── listItem.js
+   |     ├── Orders.js
+   |     ├── ProductForm.js
+   |     └── Products.js
+   ├── Screens
+   |     ├── CHECKOUT_OF_OD
+   |     |      ├── CheckoutforDD.js
+   |     |      ├── Confirm.js
+   |     |      └── PaymentForDD.js
+   |     ├── Cart.js
+   |     └── CartItem.js
+   ├── Products
+   |     ├── CategoryFilter.js
+   |     ├── ProductCard.js
+   |     ├── ProductContainer.js
+   |     ├── ProductList.js
+   |     ├── SearchedProducts.js
+   |     └── SingleProduct.js
+   └── user
+         ├── login.js
+         ├── Register.js
+         └── SingleProfile.js
  ```                      
+
+```bash
+Navigators
+    ├── AdminNavigator.js
+    ├── CheckoutNavigator.js
+    ├── HomeNavigator.js
+    ├── CastNavigator.js
+    └── userStackNavigator.js
+```
+
+```bash
+ContextApi
+   ├── Actions
+   |     └── Auth.actions.js
+   ├── Reducers
+   |     └── Auth.reducer.js
+   └── Store
+         ├── Auth.js
+         └── AuthGlobal.js  
+```
+
+```bash
+ReduxDev
+   ├── Actions
+   |     └── CartActionsForDD.js
+   ├── ReducersForDD
+   |     └── CartItem.js
+   ├── StoreForDD
+   └── Constants.js
+```
+
+```bash
+Shared
+   ├── Form
+   |     ├── FormContainer.js
+   |     └── Input.js
+   ├── StyledComponents
+   |     ├── EasyButton.js
+   |     └── Trafficlight.js
+   ├── Banner.js
+   ├── CartIcon.js
+   ├── Error.js
+   ├── Header.js
+   └── OrderCardDD.js
+```
+
+```bash
+assets
+   ├── Common
+   |     ├── baseUrl.js
+   |     └── is-empty.js
+   ├── data
+   |     ├── Categories.json
+   |     └── Products.json
+   └── images for icons
+```
 
 ## Making :point_down:
 
