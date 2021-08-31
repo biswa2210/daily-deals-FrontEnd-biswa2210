@@ -22,9 +22,11 @@ This is an e-commerce grocery shopping application for android and ios. Here is 
        
 </div>
 
-## Backend Link :point_right: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/
+## Backend Link :point_right: 
+https://daily-deals-server-biswa2210.herokuapp.com/api/v1/
 
-## Github Link of Backend :point_right: https://github.com/biswa2210/daily-deals-server-biswa2210
+## Github Link of Backend :point_right: 
+https://github.com/biswa2210/daily-deals-server-biswa2210
 
 ## Points about this app :point_down:
 
