@@ -85,8 +85,8 @@ Screens
          ├── login.js
          ├── Register.js
          └── SingleProfile.js
- ```                      
-
+```                      
+This part is created with javascript for different screens.
 ```bash
 Navigators
     ├── AdminNavigator.js
@@ -95,7 +95,7 @@ Navigators
     ├── CastNavigator.js
     └── userStackNavigator.js
 ```
-
+This part is created with javascript for navigations.
 ```bash
 ContextApi
    ├── Actions
@@ -106,7 +106,7 @@ ContextApi
          ├── Auth.js
          └── AuthGlobal.js  
 ```
-
+This part is created with javascript for authentication.
 ```bash
 ReduxDev
    ├── Actions
@@ -116,7 +116,7 @@ ReduxDev
    ├── StoreForDD
    └── Constants.js
 ```
-
+<a href="pics/Redux.gif"><img src="pics/Redux.gif" width="800" height= "300"></a>
 ```bash
 Shared
    ├── Form
@@ -131,17 +131,15 @@ Shared
    ├── Header.js
    └── OrderCardDD.js
 ```
-
+This part is created with javascript for different styles.
 ```bash
 assets
    ├── Common
    |     ├── baseUrl.js
    |     └── is-empty.js
-   ├── data
-   |     ├── Categories.json
-   |     └── Products.json
    └── images for icons
 ```
+This part is created with javascript for baseURl and empty.
 
 ## Making :point_down:
 
