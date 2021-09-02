@@ -40,13 +40,13 @@ https://github.com/biswa2210/daily-deals-server-biswa2210
  - [x] 'Products'<br>
  - [x] 'Orders'<br>
        
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1qiM1eomhNy4YZ-EDJJaJxdvBau3jGwsg/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1rGYj1wNPlqjoX5o32Buto57JfK44IONS/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-I have made this e-commerce android application whicch is a grocery application named DAILY DEALS so that it can be used in any start up or business purpose. This app is very user-friendly so that anyone can search products and order them. This app has login system so that it is also dafe. In present days the need of mobile app for any business is growing day by day. Keeping the trend of using e-commerce app in mind and practicing to make a safe, efficient, user-friendly app I have made this app.In this day and age, almost everyone owns a mobile device with internet connectivity. They are used to shopping using their phones. They love to do that from anywhere- at the convenience of their homes or while they are on a train or in a cab on the way to work. Having a dedicated mobile app makes it easier for the consumer to find what they are looking for at a faster pace. This would mean increased customer satisfaction. A large number of consumers find it easier to shop using a dedicated mobile app than using a website. The quality of the experience, speed, and the ease at which the transactions can be made are a few reasons. A mobile app would always provide an optimized user experience.
+I have made this e-commerce android or ios application whicch is a grocery application named DAILY DEALS so that it can be used in any start up or business purpose. This app is very user-friendly so that anyone can search products and order them. This app has login system so that it is also dafe. In present days the need of mobile app for any business is growing day by day. Keeping the trend of using e-commerce app in mind and practicing to make a safe, efficient, user-friendly app I have made this app.In this day and age, almost everyone owns a mobile device with internet connectivity. They are used to shopping using their phones. They love to do that from anywhere- at the convenience of their homes or while they are on a train or in a cab on the way to work. Having a dedicated mobile app makes it easier for the consumer to find what they are looking for at a faster pace. This would mean increased customer satisfaction. A large number of consumers find it easier to shop using a dedicated mobile app than using a website. The quality of the experience, speed, and the ease at which the transactions can be made are a few reasons. A mobile app would always provide an optimized user experience.
 
 </div>      
        
