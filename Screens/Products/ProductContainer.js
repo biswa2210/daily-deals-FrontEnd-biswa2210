@@ -1,8 +1,3 @@
-/*
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-*/
 import React, { useState, useCallback } from "react";
 import { useFocusEffect } from "@react-navigation/core";
 import {View,StyleSheet,ActivityIndicator,FlatList,ScrollView,Dimensions} from "react-native";
@@ -98,7 +93,7 @@ const ProductContainer = (props) => {
     <Header searchBar rounded>
       <Item>
         <Icon name="ios-search"></Icon>
-        <Input placeholder="Search"
+        <Input placeholder="Search in Daily Deals"
                onFocus = {openList} 
                onChangeText = {(text)=> searchProduct(text)}
                ></Input>

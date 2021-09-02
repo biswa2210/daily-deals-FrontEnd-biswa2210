@@ -1,8 +1,3 @@
-/*
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-*/
 import React from 'react';
 import {
     StyleSheet,
@@ -69,7 +64,7 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 10,
         marginTop: 55,
-        marginBottom: 25,
+        marginBottom: 15,
         marginLeft: 10,
         alignItems: 'center',
         elevation: 8,
