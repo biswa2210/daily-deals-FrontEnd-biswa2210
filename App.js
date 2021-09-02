@@ -1,8 +1,3 @@
-/*
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-*/
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import {LogBox } from 'react-native';
@@ -15,8 +10,6 @@ import Toast from 'react-native-toast-message';
 import Auth from './ContextApi/Store/Auth';
 
 
-//Start - Screens--------------------------------------------------------------------->DailyDeals
-import Header from './Shared/Header';
 //End - Screens----------------------------------------------------------------------->DailyDeals
 //Start - Navigations----------------------------------------------------------------->DailyDeals
 import Main from './Navigators/Main';
@@ -27,7 +20,6 @@ export default function App() {
     <Auth>
       <Provider store={DDSTORE}>
         <NavigationContainer>
-          <Header />
           <Main />
           <Toast ref={(ref) => Toast.setRef(ref)} />
         </NavigationContainer>
