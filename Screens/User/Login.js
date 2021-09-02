@@ -1,18 +1,14 @@
-/*
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-*/
-
 import React,{useEffect,useState,useContext} from 'react';
 import { View,Text,StyleSheet,Button } from 'react-native';
 import FormContainer from '../../Shared/Form/FormContainer';
 import Input from '../../Shared/Form/Input';
 import Error from '../../Shared/Error';
+import Header from '../../Shared/Header';
 import EasyButton from '../../Shared/StyledComponents/EasyButton';
 //Context
 import AuthGlobal from '../../ContextApi/Store/AuthGlobal';
 import { loginUser } from '../../ContextApi/Actions/Auth.actions';
+import { Fragment } from 'react';
 
 const Login = (props) => {
     const context = useContext(AuthGlobal);
@@ -55,7 +51,9 @@ const Login = (props) => {
     }
     
     return (
-        <FormContainer title={"Login"}>
+      <Fragment>
+        <Header></Header>
+         <FormContainer title={"Login"}>
         <Input
           placeholder={"Enter Email"}
           name={"email"}
@@ -87,6 +85,8 @@ const Login = (props) => {
         </EasyButton>
         </View>
       </FormContainer>
+      </Fragment>
+       
     );
 }
 const styles = StyleSheet.create({
