@@ -40,7 +40,7 @@ https://github.com/biswa2210/daily-deals-server-biswa2210
  - [x] 'Products'<br>
  - [x] 'Orders'<br>
        
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1rGYj1wNPlqjoX5o32Buto57JfK44IONS/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1gt8wSBxBjgq6F74BaRL3zHbTlyFpNaPG/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
