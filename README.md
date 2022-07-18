@@ -22,11 +22,14 @@ This is an e-commerce grocery shopping application for android and ios. Here is 
        
 </div>
 
-## Backend Link :point_right: 
-https://daily-deals-server-biswa2210.herokuapp.com/api/v1/
+## Backend Link :point_right: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/
 
-## Github Link of Backend :point_right: 
-https://github.com/biswa2210/daily-deals-server-biswa2210
+## Github Link of Backend :point_right: https://github.com/biswa2210/daily-deals-server-biswa2210
+
+## DAILY DEALS DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=V9Nrrs77-KY&list=PL0lbDlMJ1h4i5ey2G0lLtoh6yVbDkVMGQ&index=2">Click here to watch</a>
+
+## REACT NATIVE PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4i5ey2G0lLtoh6yVbDkVMGQ">Click here to watch</a>
+
 
 ## Points about this app :point_down:
 
